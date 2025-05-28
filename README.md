@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**.
 
 * **Afshan Farooq**
 * **Muhammad Abdullah Attari**
-* **Muhammad Faisal **
+* **Muhammad Faisal**
 
 **Department:** Software Engineering
 **University:** Lahore Garrison University
