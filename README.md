@@ -1,7 +1,3 @@
-Sure! Here's a **cleaned-up and beginner-friendly version** of your README file:
-
----
-
 # Supply Chain Transparency and Audit Trail DApp
 
 This project is a simple **decentralized application (DApp)** made to track products in a **supply chain**. It shows the product’s **current status, location, and full history**. The system uses **blockchain** on the **Ethereum Sepolia Testnet** to keep everything **secure and transparent**.
